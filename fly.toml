@@ -1,5 +1,5 @@
 app = "shopierformx"
-primary_region = "fra" # Gaziantep'e yakın bir bölge (örn: FRA veya OTP)
+primary_region = "ams" # Gaziantep'e yakın bir bölge (örn: FRA veya OTP)
 
 [build]
   # Dockerfile veya buildpack ayarlarınız buraya gelir
